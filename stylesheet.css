@@ -29,6 +29,8 @@ body {
   width: 384px;
   display: flex;
   justify-content: center;
+  box-shadow: 10px 10px var(--dark_grey);
+  border: 1px solid var(--dark_grey);
 }
 
 .card-content {
